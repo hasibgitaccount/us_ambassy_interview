@@ -51,7 +51,6 @@ you might want to consider having your sponser's tin certificate and tax certifi
 
 =>
 
-<<<<<<< HEAD
 13. What is your plan after finishing your studies ?
 
 =>
@@ -69,22 +68,3 @@ you might want to consider having your sponser's tin certificate and tax certifi
 =>
 
 17.
-=======
-13. What do your parents do ?
-
-=>
-
-14. So which other universities did you applied to ?
-
-=> The other universities I applied for is University of Potomac and washington university of science and technology.
-
-15. So what is it that made you select this university ?
-
-=>
-
-16. Why are you changing your major ?
-
-=>
-
-17. 
->>>>>>> master
