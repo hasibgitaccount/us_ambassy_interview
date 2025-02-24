@@ -5,33 +5,33 @@ you might want to consider having your sponser's tin certificate and tax certifi
 
 1. So why did you choose U.S ?
 
-=>
+=> To study my bachelors in Computer Science there. And Ashland university is providing the best Computer Science course in Bachelors.
 
 2. Who is your sponser ?
 
-=>
+=> My brother is my sponser. He's an IT engineer and real estate investor.(need more information)
 
 3. Which/ how many, universities are you applying for ?
 
-=>
+=> I'm applying for three univesities. Ashland university, university of potomac, washington university of science and technology.
 
 4. What happened during your first time / why did you got rejected the first time ?
 
-=>
+=> 
 
 5. What did you do during that 2 years ?
 
 =>
 
-6. Why did you choose this university ?
+6. Why did you choose this university ? / why this university ?
 
 => location, ranking, research, facility.
 
 7. Did you visit any other country / your travel history ?
 
-=>
+=> No.
 
-8. How many workers does he have ?
+8. How many workers does your sponser have ?
 
 =>
 
@@ -41,16 +41,17 @@ you might want to consider having your sponser's tin certificate and tax certifi
 
 10. How many courses are you going to complete during your first year ?
 
-=>
+=> 
 
 11. What is your credit score ?
 
 =>
 
-12. When is your class starting date ?
+12. What is your plan after finishing your studies ? / what will you do after bachelors ?
 
 =>
 
+<<<<<<< HEAD
 13. What is your plan after finishing your studies ?
 
 =>
@@ -68,3 +69,22 @@ you might want to consider having your sponser's tin certificate and tax certifi
 =>
 
 17.
+=======
+13. What do your parents do ?
+
+=>
+
+14. So which other universities did you applied to ?
+
+=> The other universities I applied for is University of Potomac and washington university of science and technology.
+
+15. So what is it that made you select this university ?
+
+=>
+
+16. Why are you changing your major ?
+
+=>
+
+17. 
+>>>>>>> master
